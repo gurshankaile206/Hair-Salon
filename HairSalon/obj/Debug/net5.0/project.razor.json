@@ -15649,6 +15649,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/gurshankaile/Desktop/CSharp/HairSalon.Solution/HairSalon/Views/Clients/Index.cshtml",
+      "TargetPath": "Views\\Clients\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/gurshankaile/Desktop/CSharp/HairSalon.Solution/HairSalon/Views/Clients/DeleteAll.cshtml",
       "TargetPath": "Views\\Clients\\DeleteAll.cshtml",
       "FileKind": "mvc"
